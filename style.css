@@ -1,0 +1,15 @@
+.home{
+    background-image: linear-gradient(to right, #000000a5 60%, #00000000), url(/img/college.png);
+    background-size: cover;
+    height: 100vh;  
+}
+.spchal{
+    letter-spacing: 8px;
+}
+html{
+    scroll-behavior: smooth;
+}
+body {
+    overflow-x: hidden;
+  }
+  
