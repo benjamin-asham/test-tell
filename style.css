@@ -1,5 +1,5 @@
 .home{
-    background-image: linear-gradient(to right, #000000a5 60%, #00000000), url(/img/college.png);
+    background-image: linear-gradient(to right, #000000a5 60%, #00000000), url(college.png);
     background-size: cover;
     height: 100vh;  
 }
